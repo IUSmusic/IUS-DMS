@@ -4,13 +4,12 @@ IUS Official Sequencer
 Main files
 
 index.html is the prototype application.
-README.txt is the main project guide.
-LICENSE.txt is the software license for the code.
-TRADEMARK_NOTICE.txt explains the brand and logo restrictions.
-technical_hardware_layout.txt describes the intended hardware layout.
-final_concise_block_schematic.txt gives the high level hardware block structure.
-hardware_handoff_summary.txt gives the hardware summary.
-SAMPLE_FOLDER_NOTE.txt explains how to place your own sample files.
+README.txt is the main project guide and explains how to place your own sample files.
+LICENSE.txt
+TRADEMARK NOTICE.txt
+Hardware Layout.txt
+Schematic.txt 
+hardware.txt
 
 How to open the prototype
 
