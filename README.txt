@@ -36,6 +36,18 @@ Step 8. Change BPM on a track to alter playback speed.
 Step 9. Use the loop control to keep playback cycling.
 Step 10. Use the theme button in the top bar to switch between dark and light high contrast viewing modes.
 
+
+Place your own sample files in the soundbank samples folder.
+Supported file types depend on browser audio support. Common examples include wav mp3 and ogg.
+Custom files placed in the samples folder appear in the custom category in the sound library.
+Suggested naming rules for automatic grouping are shown below.
+
+Files that start with kick or snare or clap or hihat are treated as drum sounds.
+Files that start with bass are treated as bass sounds.
+Files that start with synth are treated as synth sounds.
+Files that start with fx are treated as effects sounds.
+
+
 MIT License
 
 Copyright 2026 Pezhman Farhangi
