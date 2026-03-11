@@ -1,10 +1,5 @@
 IUS Official Sequencer
 
-This project is a browser based prototype of the intended real world IUS drum sequencer. It demonstrates the planned sequencing layout, control flow, sound assignment behaviour, preview workflow, track playback, default audio handling, and accessibility theme switching for the final model.
-
-Project contents
-
-The root folder contains the main application file, the text documentation, the legal text files, and the hardware reference text files. The soundbank folder contains the bundled audio content used by the prototype. The assets folder contains the official logo files used by the interface.
 
 Main files
 
@@ -41,6 +36,4 @@ Step 8. Change BPM on a track to alter playback speed.
 Step 9. Use the loop control to keep playback cycling.
 Step 10. Use the theme button in the top bar to switch between dark and light high contrast viewing modes.
 
-Technical note
 
-The prototype is implemented as a single page HTML application using browser native audio and media features. It is a front end prototype of the real model and is not the embedded hardware firmware.
