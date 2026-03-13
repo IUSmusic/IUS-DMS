@@ -57,7 +57,7 @@ Here’s a concise changelog for the feature additions only.
   * Gain controls displayed below each stereo pair
   * Visual only for now
 
-### Updated
+### Fixed
 
   **Layout integration**
 
