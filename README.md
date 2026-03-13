@@ -67,7 +67,7 @@ The Software is provided as is without warranty of any kind express or implied i
 
 ### Trademark and brand notice
 
-IUS and IUS Music are protected brand identifiers associated with the official IUS project.
+I/US (PRS: IUS) and IUS Music® are protected brand identifiers associated with the official IUS project.
 
 The code in this repository is licensed separately under the MIT License. That software license does not grant permission to use the IUS name, the IUS Music name, the official logo, the visual identity, artwork, images, audio branding, or other protected brand assets unless explicit written permission is given by IUS Music.
 
