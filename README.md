@@ -35,7 +35,6 @@
     * **3 stereo inputs** (`L/R × 3`)
     * **1 stereo master output** (`L/R`)
   * Gain controls displayed below each stereo pair
-  * Visual only for now
 
 ### Fixed
 
