@@ -1,4 +1,4 @@
-I/US Official Sequencer
+IUS Official Sequencer
 
 https://iusmusic.github.io/IUS-DMS/
 
