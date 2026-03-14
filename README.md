@@ -9,9 +9,9 @@
 
 # I/US DMS
 
-I/US-DMS is a browser-based prototype of the I/US Official Sequencer.
+**I/US-DMS is a browser-based prototype of the I/US Official Sequencer**
 
-It is not only a web preview. It is also a working design space for the wider I/US instrument concept, where sequencing workflow, interface layout, sound assignment, and hardware-facing ideas can be tested in public before they are committed to a physical build.
+**It is not only a web preview. It is also a working design space for the wider I/US instrument concept, where sequencing workflow, interface layout, sound assignment, and hardware-facing ideas can be tested in public before they are committed to a physical build.**
 
 ## What this project is
 This repository brings together two connected parts of the same idea:
