@@ -1,12 +1,11 @@
 **I/US Official Sequencer**
 
-https://iusmusic.github.io/IUS-DMS/
- * Preview Models
+* Preview Models
 ![DMS Preview](DMS%20Preview01.png)
 ![DMS Preview](DMS%20Preview02.png)
 
 **Live demo**
-[Open the prototype](https://iusmusic.github.io/IUS-DMS/)
+  * [Open the prototype](https://iusmusic.github.io/IUS-DMS/)
 
 # I/US DMS
 
