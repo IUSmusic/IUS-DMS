@@ -11,10 +11,8 @@
 
 **I/US-DMS is a browser-based prototype of the I/US Official Sequencer**
 
-**It is not only a web preview. It is also a working design space for the wider I/US instrument concept, where sequencing workflow, interface layout, sound assignment, and hardware-facing ideas can be tested in public before they are committed to a physical build.**
-
 ## What this project is
-This repository brings together two connected parts of the same idea:
+**This repository brings together two connected parts of the same idea:**
 
 **Software prototype**:
  * **A browser-based sequencer used to test interface behaviour, playback workflow, sound browsing, track control, and interaction design**
@@ -41,36 +39,11 @@ This is an early public prototype shared to organise ideas, test workflows, docu
 - Theme switching
 - Microphone recording where supported
 
-
-# I/US DMS
-
-I/US-DMS is a browser-based prototype of the I/US Official Sequencer.
-It explores the interface, sequencing workflow, and hardware/software ideas behind the project.
-
-## Live demo
-[Open the prototype](https://iusmusic.github.io/IUS-DMS/)
-
-## What this repo contains
-- Browser prototype (`index.html`)
-- Early hardware and layout notes
-- Soundbank structure for testing sample playback
-- Concept files and interface experiments
-
-## Current status
-This is an early public prototype shared to document ideas, test workflows, and organize future development.
-
-## Features
-- Multi-track step sequencing
-- Sample library and custom sample loading
-- BPM control
-- Looping
-- Theme switching
-- Microphone recording where supported
-
 ## Roadmap
-- I will continue ti add features and update the project.
+- I will continue to add features and update the project.
 - Clear hardware documentation
-- Versioned releases 
+- Versioned releases
+- Customizable effect plugins
 
 ## Changelog
 
