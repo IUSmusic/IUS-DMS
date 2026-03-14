@@ -5,7 +5,7 @@
 ![DMS Preview](DMS%20Preview02.png)
 
 **Live demo**
-  * [Open the prototype](https://iusmusic.github.io/IUS-DMS/)
+  * **[Open in New Page](https://iusmusic.github.io/IUS-DMS/)**
 
 # I/US DMS
 
