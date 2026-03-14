@@ -49,20 +49,20 @@ This is an early public prototype shared to organise ideas, test workflows, docu
 
  **13 March 2026**
 
-  * Added a dedicated master track panel above the regular tracks
-  * Includes **FX toggle**, **Midi/Bank mode**, **Reverb**, **Delay**, **Distortion**, **Volume**, **Play**, **Rec**, and **Sustain**
-  * Added a **left-side main monitor** panel
-  * Added an always-visible **oscilloscope** inside the main monitor
-  * Wired to the **master output analyser**
+  - Added a dedicated master track panel above the regular tracks
+  - Includes **FX toggle**, **Midi/Bank mode**, **Reverb**, **Delay**, **Distortion**, **Volume**, **Play**, **Rec**, and **Sustain**
+  - Added a **left-side main monitor** panel
+  - Added an always-visible **oscilloscope** inside the main monitor
+  - Wired to the **master output analyser**
 
-  * Added a persistent **Sound Library** view inside the main monitor
-  * Includes sound browsing, file loading, search, and assignment workflow support
+  - Added a persistent **Sound Library** view inside the main monitor
+  - Includes sound browsing, file loading, search, and assignment workflow support
 
-  * Added functional **Reverb**, **Delay**, and **Distortion** controls on all tracks
-  * Controls are visually presented as physical-style knobs and wired to audio behavior
+  - Added functional **Reverb**, **Delay**, and **Distortion** controls on all tracks
+  - Controls are visually presented as physical-style knobs and wired to audio behavior
 
-  * Added a **minimal physical EQ section** in the top area
-  * Wired to the **master bus**
+  - Added a **minimal physical EQ section** in the top area
+  - Wired to the **master bus**
 
 
   **3 Stereo In + Master Stereo Out Mixer Display**
