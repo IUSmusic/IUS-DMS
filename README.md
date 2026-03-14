@@ -16,7 +16,8 @@
 
 **Software prototype**:
  * **A browser-based sequencer used to test interface behaviour, playback workflow, sound browsing, track control, and interaction design**
- * **Hardware concept: Early notes, layouts, and supporting documents that show how the sequencer may relate to a future physical I/US device**
+**Hardware concept**:
+* **Early notes, layouts, and supporting documents that show how the sequencer may relate to a future physical I/US device**
 
 The software side is the hands-on prototype you can run now.  
 The hardware side shows the broader direction the project is moving toward.
