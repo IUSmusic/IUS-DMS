@@ -74,7 +74,7 @@ This is an early public prototype shared to document ideas, test workflows, and 
 
 ## Changelog
 
- 13 March 2026
+ **13 March 2026**
 
   * Added a dedicated master track panel above the regular tracks
   * Includes **FX toggle**, **Midi/Bank mode**, **Reverb**, **Delay**, **Distortion**, **Volume**, **Play**, **Rec**, and **Sustain**
