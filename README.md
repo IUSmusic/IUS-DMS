@@ -1,4 +1,4 @@
-** I/US Official Sequencer
+*** I/US Official Sequencer
 
 **https://iusmusic.github.io/IUS-DMS/**
  * Preview Models
