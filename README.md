@@ -9,6 +9,145 @@
 **Live demo**
   * **[Open in New Page](https://iusmusic.github.io/IUS-DMS/)**
 
+
+## Revision B Architecture Update
+
+* Reframed the device from a sequencer-first prototype into a sampling-first multitrack workstation
+
+* Kept the system as a 5-track DAW layout with a dedicated master section
+
+* Replaced the oscilloscope-style monitor concept with a DAW-style waveform monitor direction
+
+* Defined the monitor as a fixed shared display with vertically compressing track lanes
+
+* Set monitor lane colors by track number:
+
+  * Track 1 red
+  * Track 2 blue
+  * Track 3 white
+  * Track 4 red
+  * Track 5 blue
+
+* Defined silent but engaged tracks to write as flat lines rather than disappearing
+
+* Set the monitor to preserve recorded waveform history after capture for future edit and punch-in workflows
+
+* Clarified that the monitor must support touch interaction for waveform selection, cursor placement, and future edit-from-position recording
+
+* Added the requirement for visible waveform grids to support precise editing
+
+* Added a dedicated right-side scroll / jog control for surgical waveform navigation when touch alone is not precise enough
+
+* Split per-track recording behavior into separate functions:
+
+  * Arm / Sample
+  * Track Rec
+  * Mic Rec
+
+* Clarified that Track Rec captures the track behavior/output in stereo
+
+* Clarified that Mic Rec is a separate hold-to-record sampling path
+
+* Clarified that uploaded audio can be used as a backing-track / waveform-track source
+
+* Added the requirement for a separate Master Mix Rec path in addition to Master Mic Rec
+
+* Defined Master Mix Rec as the stereo capture path for all tracks and master performance output
+
+* Confirmed that the master section remains a controller/master-bus section rather than becoming a normal track lane
+
+* Reworked the hardware direction from a single-DSP-centered prototype into a dual-domain architecture
+
+* Defined a Main Compute / UI subsystem for touch DAW display, themes, storage management, and HDMI output
+
+* Defined a separate real-time audio/control subsystem for deterministic low-latency audio behavior
+
+* Kept the audio design focused on studio-quality recording at 24-bit / 48 kHz minimum, with headroom for higher-quality operation later
+
+* Defined the analog/digital boundary more clearly around codec, preamp, line conditioning, output stage, and digital track engine domains
+
+* Expanded the storage direction to support multiple media paths, including more than one microSD slot and external storage workflows
+
+* Added expanded I/O direction including additional USB-C, USB-A, and HDMI support
+
+* Defined HDMI as an external display path for the recorder screen, sound bank monitor, and piano UI
+
+* Rewrote the hardware plan as an open-source-ready modular board split:
+
+  * Main Compute / UI Board
+  * Real-Time Audio and Control Board
+  * Audio I/O / Analog Board
+  * Control Surface Board
+  * Display / Touch Subsystem
+
+* Rewrote the block schematic, hardware architecture, and layout documents around Revision B instead of the earlier Revision A prototype assumptions
+
+* Added dedicated block-diagram and industrial-design briefing documents for future diagramming and hardware drawing work
+You’re right. Here it is in the same Markdown style as the Revision B section.
+
+## 14 March 2026
+
+* Kept the app as a 5-track sequencer
+
+* Decoupled the keyboard size from the 31-step sequencer
+
+* Replaced the limited keyboard with a full piano keyboard
+
+* Upgraded the keyboard path to use a soundfont-backed piano with fallback behavior
+
+* Added a new Record Monitor below the master track
+
+* Wired it so it shows only armed or recording tracks
+
+* Made the monitor responsive so multiple armed tracks are visible as needed
+
+* Added track color mapping so recordings are visually tied to their source track
+
+* Moved the Settings inside the Library / Sound Bank monitor
+
+* Reduced the left monitor/bank panel width by about 10%
+
+* Added Skip Back, Play/Pause, and Skip Forward controls
+
+* Wired the new UI so the controls and monitor behavior are connected
+
+* Kept the master track as controller rather than using it as the recording lane
+
+## 13 March 2026
+
+* Added a dedicated master track panel above the regular tracks
+
+* Included:
+
+  * **FX toggle**
+  * **Midi/Bank mode**
+  * **Reverb**
+  * **Delay**
+  * **Distortion**
+  * **Volume**
+  * **Play**
+  * **Rec**
+  * **Sustain**
+
+* Added a **left-side main monitor** panel
+
+* Added an always-visible **oscilloscope** inside the main monitor
+
+* Wired it to the **master output analyser**
+
+* Added a persistent **Sound Library** view inside the main monitor
+
+* Included sound browsing, file loading, search, and assignment workflow support
+
+* Added functional **Reverb**, **Delay**, and **Distortion** controls on all tracks
+
+* Presented the controls as physical-style knobs and wired them to audio behavior
+
+* Added a **minimal physical EQ section** in the top area
+
+* Wired the EQ section to the **master bus**
+
+
 # I/US DMS
 
 **I/US-DMS is a browser-based prototype of the I/US Official Sequencer**
@@ -48,43 +187,6 @@ This is an early public prototype shared to organise ideas, test workflows, docu
 - Clear hardware documentation
 - Versioned releases
 - Customizable effect plugins
-
-## Changelog
-
-**14 March 2026**
-- Kept the app as a 5-track sequencer
-- Decoupled the keyboard size from the 31-step sequencer
-
-- Replaced the limited keyboard with a full piano keyboard
-- Upgraded the keyboard path to use a soundfont-backed piano with fallback behavior
-
-- Added a new Record Monitor below the master track
-- Wired it so it shows only armed or recording tracks
-- Made the monitor responsive so multiple armed tracks are visible as needed
-- Added track color mapping so recordings are visually tied to their source track
-- Moved the Settings inside the Library / Sound Bank monitor
-
-- Reduced the left monitor/bank panel width by about 10%
-- Added Skip Back, Play/Pause, and Skip Forward controls
-- Wired the new UI so the controls and monitor behavior are connected
-- Kept the master track as controller rather than using it as the recording lane
-
- **13 March 2026**
-
-  - Added a dedicated master track panel above the regular tracks
-  - Includes **FX toggle**, **Midi/Bank mode**, **Reverb**, **Delay**, **Distortion**, **Volume**, **Play**, **Rec**, and **Sustain**
-  - Added a **left-side main monitor** panel
-  - Added an always-visible **oscilloscope** inside the main monitor
-  - Wired to the **master output analyser**
-
-  - Added a persistent **Sound Library** view inside the main monitor
-  - Includes sound browsing, file loading, search, and assignment workflow support
-
-  - Added functional **Reverb**, **Delay**, and **Distortion** controls on all tracks
-  - Controls are visually presented as physical-style knobs and wired to audio behavior
-
-  - Added a **minimal physical EQ section** in the top area
-  - Wired to the **master bus**
 
 
   **3 Stereo In + Master Stereo Out Mixer Display**
