@@ -1,6 +1,4 @@
 **I/US Official Sequencer**
-
-* Preview Models
 ![DMS Preview](DMS%20Preview01.png)
 ![DMS Preview](DMS%20Preview02.png)
 ![DMS Preview](DMS%20Preview03.png)
