@@ -1,7 +1,7 @@
 # I/US Source-Available License 1.0
 
 Copyright (c) 2026 Pezhman Farhangi  
-IUS Music
+I/US Music
 
 This repository and its contents are made available for viewing, reference, study, and limited private internal evaluation only.
 
@@ -43,7 +43,7 @@ Trademark and brand use are governed separately.
 
 ## No warranty
 
-This software and all associated materials are provided "as is", without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and noninfringement.
+This software and Hardware prototype and all associated materials are provided "as is", without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and noninfringement.
 
 In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
