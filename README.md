@@ -41,11 +41,11 @@
   * Track Rec
   * Mic Rec
 
-* Clarified that Track Rec captures the track behavior/output in stereo
+* Track Rec captures the track behavior/output in stereo
 
-* Clarified that Mic Rec is a separate hold-to-record sampling path
+* Mic Rec is a separate hold-to-record sampling path
 
-* Clarified that uploaded audio can be used as a backing-track / waveform-track source
+* uploaded audio can be used as a backing-track
 
 * Added the requirement for a separate Master Mix Rec path in addition to Master Mic Rec
 
