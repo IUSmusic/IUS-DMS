@@ -330,7 +330,7 @@ This repository is released under the **I/US Music Source-Available License 1.0*
 
 You may view the code, study it, and use it for private internal evaluation.
 
-You may not sell it, redistribute it, sublicense it, publish modified versions of it, or use it commercially without prior written permission from **Pezhman Garhangi** **I/US Music**.
+You may not sell it, redistribute it, sublicense it, publish modified versions of it, or use it commercially without prior written permission from **PEZHMAN FARHANGI** **I/US Music**.
 
 If this repository is public on GitHub, GitHub users may still have limited rights to view and fork it through GitHub’s own platform functions, as required by GitHub’s Terms of Service.
 
