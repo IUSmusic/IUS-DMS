@@ -37,7 +37,7 @@ This license does not transfer ownership of the software, documentation, designs
 
 ## No trademark rights
 
-This license does not grant any right to use the names I/US, IUS, IUS Music, the official logo, the visual identity, artwork, images, audio branding, or any other protected brand assets.
+This license does not grant any right to use the names I/US, IUS, I/US Music, the official logo, the visual identity, artwork, images, audio branding, or any other protected brand assets.
 
 Trademark and brand use are governed separately.
 
