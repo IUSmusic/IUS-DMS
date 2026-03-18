@@ -324,15 +324,32 @@ All rights in the **I/US**, **IUS**, and **IUS Music** brand identity are reserv
 Any fork, modified build, redistributed version, or commercial version must not imply official affiliation with or endorsement by the official **I/US** project unless written permission is given.
 
 
-## License
 
-This repository is released under the **I/US Music Source-Available License 1.0**.
+## Ownership
 
-You may view the code, study it, and use it for private internal evaluation.
+All rights not expressly granted under this license are reserved.
 
-You may not sell it, redistribute it, sublicense it, publish modified versions of it, or use it commercially without prior written permission from **PEZHMAN FARHANGI** **I/US Music**.
+This license does not transfer ownership of the software, documentation, designs, concepts, hardware direction, brand identity, or any related intellectual property.
 
-If this repository is public on GitHub, GitHub users may still have limited rights to view and fork it through GitHub’s own platform functions, as required by GitHub’s Terms of Service.
+## No Trademark Rights
 
-See `LICENSE.md` and `TRADEMARKS.md` for full terms.
+This license does not grant any right to use the names I/US, IUS, I/US Music, the official logo, the visual identity, artwork, images, audio branding, or any other protected brand assets.
 
+Trademark and brand use are governed separately.
+
+## No Warranty
+
+This software, hardware prototype, and all associated materials are provided "as is", without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and noninfringement.
+
+In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+## Contact
+
+For licensing requests, commercial rights, redistribution requests, or permission to use protected brand assets, prior written permission must be obtained from I/US Music.
+If this repository is hosted publicly on GitHub, GitHub users may have certain limited rights to view and fork the repository through GitHub’s own platform functionality, as required by GitHub’s Terms of Service. No permission is granted beyond those minimum platform rights unless explicit written permission is given by I/US Music.
+
+# I/US Source-Available License 1.0
+
+<a href="LICENSE">
+  <img src="images/license-badge.png" alt="License badge" width="70">
+</a>
